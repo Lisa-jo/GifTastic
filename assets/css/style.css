@@ -1,0 +1,22 @@
+body {
+    background-image: url(../images/movie.jpg);
+   text-align: center;
+    color: rgb(238, 206, 25);
+}
+
+button {
+    margin:1em;
+}
+
+.gifDiv {
+    display: inline-block; 
+    margin:5px;
+    vertical-align: top;
+
+}
+
+.jumbotron {
+  background-color: rgba(5, 5, 78, 0.568);
+
+}
+
