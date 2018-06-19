@@ -1,11 +1,12 @@
 body {
-    background-image: url(../images/movie.jpg);
+    background-image: url(../images/mickey.jpg);
    text-align: center;
-    color: rgb(238, 206, 25);
+    color: rgb(245, 53, 53);
 }
 
 button {
     margin:1em;
+    background-color: rgb(1, 1, 19);
 }
 
 .gifDiv {
@@ -16,7 +17,8 @@ button {
 }
 
 .jumbotron {
-  background-color: rgba(5, 5, 78, 0.568);
+  background-color: rgba(252, 253, 249, 0.103);
 
 }
+
 
